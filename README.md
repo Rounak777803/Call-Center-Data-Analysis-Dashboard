@@ -5,7 +5,8 @@ This repository showcases a comprehensive data analysis project focused on a Cal
 This project involved analyzing call center operations to understand key performance metrics, customer interactions, and representative effectiveness. The analysis covered call trends, customer demographics, satisfaction ratings, and purchase behaviors, providing a holistic view of the call center's performance.
 
 **🛠️ Technologies & Tools Used**
-MySQL: For robust ETL (Extract, Transform, Load), data cleaning, and in-depth Exploratory Data Analysis (EDA) using advanced SQL queries, subqueries, Common Table Expressions (CTEs), and Window Functions.
+**MySQL:**
+For robust ETL (Extract, Transform, Load), data cleaning, and in-depth Exploratory Data Analysis (EDA) using advanced SQL queries, subqueries, Common Table Expressions (CTEs), and Window Functions.
 
 **Microsoft Power BI:**
 For designing and implementing an interactive dashboard, leveraging DAX (Data Analysis Expressions) for advanced calculations and data modeling.
@@ -43,7 +44,7 @@ Determined the time difference between consecutive calls for repeat customers (u
 
 Assessed call DurationBucket distribution for high-satisfaction calls.
 
-** Interactive Power BI Dashboard Development:**
+**Interactive Power BI Dashboard Development:**
 
 Designed and implemented a comprehensive Power BI dashboard featuring interactive visuals (e.g., Call Trends, Quantity by Country, Satisfaction Rating distribution, M vs F Callers) and dynamic pivot tables (e.g., Representative-wise performance).
 
@@ -59,13 +60,12 @@ Here's a glimpse of the interactive dashboard:
 (
 SQL_Scripts/: Contains all SQL DDL (CREATE TABLE) and DML (LOAD DATA INFILE, EDA queries) scripts.
 
-Power_BI_Project/: (Optional) Contains the Power BI .pbix file.
+Power_BI_Project/: Contains the Power BI .pbix file.
 
 images/: Contains dashboard screenshots and other relevant images.
 
-README.md: This file.
 
-##💡 Database Management & SQL: Proficient in designing schemas, loading data, and performing complex analytical queries. @@
+💡 Database Management & SQL: Proficient in designing schemas, loading data, and performing complex analytical queries. 
 
 Data Cleaning & Preprocessing: Expertise in identifying and resolving data quality issues for reliable analysis.
 
