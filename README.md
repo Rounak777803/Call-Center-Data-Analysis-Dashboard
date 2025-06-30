@@ -52,9 +52,6 @@ Developed custom DAX formulas to create calculated columns and measures, enablin
 
 The dashboard empowers stakeholders to gain quick, effective insights into call center operations and identify areas for improvement.
 
-**📈 Dashboard Screenshot**
-Here's a glimpse of the interactive dashboard:
-(Note: You will need to replace images/call_center_dashboard.png with the actual path to your screenshot file in your repository.)
 
 **📂 dashboard**
 (
